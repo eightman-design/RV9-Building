@@ -1,32 +1,13 @@
-## Welcome to GitHub Pages
+## Where To Start
 
-You can use the [editor on GitHub](https://github.com/eightman-design/RV9-Building/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In order to get started on building the RV9, you're going to need a couple things. A workshop with enough space to assemble the parts, the tools to assemble the parts, and the parts themselves.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Tools
 
-### Markdown
+The tools you need are included in the following image
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](Images/IMG_4678.JPG)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
